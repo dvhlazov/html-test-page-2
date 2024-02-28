@@ -12,7 +12,9 @@ h1 {
 .p-youtube-click {
 	text-align: center;
 }
+
 /* lvl-1 */
+
 .button2 {
   	background: #2296f1;
   	color: #fff;
@@ -26,13 +28,17 @@ h1 {
 .container2 {
 	text-align: center;
 }
+
 /* lvl-2*/
 
 .button3 {
+	display: inline-block;
+	width: 300px;
+	height: 150px;
   	background-image: url("https://images.pexels.com/photos/259915/pexels-photo-259915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 	background-size: 100%;  	
 	color: #fff;
-	padding: 5px;
+	padding-top: 20px;
  	border: none;
  	border-radius: 11px;
   	text-decoration: none;
@@ -42,28 +48,28 @@ h1 {
 .container3 {
 	margin-top: 113px;
 	text-align: center;
-	
 }
 
 /* lvl-3*/
+
 .button4 {
   	background-image: url("https://t.ly/SpRJT");
 	background-size: 100%;
   	color: #fff;
 	padding:60px;
  	border: 3px solid;
- 	border-radius: 11px;
+ 	border-radius: 15px;
   	text-decoration: none;
   	font-family: Times New Roman;
-  	font-size: 34px;
+  	font-size: 30px;
 }
 .button4:hover {
 	border-color: #ff3300;
 }
-
 .container4 {
 	text-align: center;
 	margin-top: 60px;
 }
+
 /* lvl-4*/
 
